@@ -3,4 +3,4 @@ amilys/embyserver:latest
 linuxserver/qbittorrent:4.6.7
 linuxserver/qbittorrent:latest
 jeessy/ddns-go
-amilys/embyserver_arm64v8
+amilys/embyserver_arm64v8:latest
