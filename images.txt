@@ -4,3 +4,5 @@ linuxserver/qbittorrent:4.6.7
 linuxserver/qbittorrent:latest
 jeessy/ddns-go
 amilys/embyserver_arm64v8:latest
+duan2001/npc
+duan2001/nps
