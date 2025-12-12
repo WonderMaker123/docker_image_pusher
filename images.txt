@@ -6,3 +6,4 @@ jeessy/ddns-go
 amilys/embyserver_arm64v8:latest
 duan2001/npc
 duan2001/nps:latest
+mzz2017/v2raya
