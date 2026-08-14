@@ -9,3 +9,4 @@ duan2001/nps:latest
 mzz2017/v2raya
 gdy666/lucky
 gangz1o/glash:latest
+jxxghp/moviepilot-v3:latest
