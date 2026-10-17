@@ -12,3 +12,5 @@ gangz1o/glash:latest
 jxxghp/moviepilot-v3:latest
 snowdreamtech/frpc
 snowdreamtech/frps
+hslr/sun-panel
+6053537/portainer-ce
