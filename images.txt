@@ -14,3 +14,4 @@ snowdreamtech/frpc
 snowdreamtech/frps
 hslr/sun-panel
 6053537/portainer-ce
+ddsderek/transmission
